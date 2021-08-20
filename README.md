@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...perl and python
 - 💞️ I’m looking to collaborate on ...how to find ip adderess ssh
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...20151423z@gmail.com
 
 <!---
 0u812bit/0u812bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
